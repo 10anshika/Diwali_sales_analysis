@@ -122,15 +122,13 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 
 ## 👩‍💼 About the Analyst
 
-**Anshika** | Data Analyst & Business Intelligence Specialist
+**Anshika** 
 
 Passionate about transforming complex datasets into strategic business insights. Experienced in retail analytics, customer intelligence, and revenue optimization for sales and finance organizations.
 
 ## 📞 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Professional Email]
-- **Portfolio**: [Your Portfolio Website]
+- **Email**: anshikamishra.25000@gmail.com
 
 ---
 
